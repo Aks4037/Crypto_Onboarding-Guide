@@ -17,7 +17,7 @@ Understand common crypto words like gas, wallet, NFT, DEX, and L1/L2 — no jarg
 Create your first Web3 wallet safely with tips on passwords, seed phrase handling, and dApp login flow.
 
 ### 🧰 [Web3 Tools for Beginners](Crypto-Onboarding-Guide/tools-for-beginners.md)  
-Must-have tools like Chainlist, Revoke.cash, DeBank, and Etherscan — with links and why they matter.
+Must-have tools like Chainlist, Revoke. cash, DeBank, and Etherscan — with links and why they matter.
 
 ### 💬 [Telegram + Discord Welcome & Safety Guide](Crypto-Onboarding-Guide/telegram-discord-intro.md)  
 Ready-to-use onboarding message templates for mods, with community safety reminders and trust-building tips.
